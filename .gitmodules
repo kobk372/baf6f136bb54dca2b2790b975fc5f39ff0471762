@@ -1,0 +1,3 @@
+[submodule "debian lithium main"]
+	path = debian lithium main
+	url = deb https://kelaino.bunsenlabs.org/~johnraff/debian lithium main
